@@ -68,7 +68,6 @@ img{max-width:100%;height:auto}
   padding:16px 0;
   background:transparent;
   transition:background .4s,padding .4s,backdrop-filter .4s;
-  overflow:hidden;
 }
 .navbar.scrolled{
   background:rgba(27,25,26,.85);
